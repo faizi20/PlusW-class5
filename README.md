@@ -5,7 +5,7 @@
 #!/bin/bash
 
 GITHUB_USERNAME="faizi20"
-GITHUB_TOKEN="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"
+GITHUB_TOKEN="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"
 
 mkdir task1
 touch task1.py
